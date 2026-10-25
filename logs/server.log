@@ -1,0 +1,23 @@
+2026/10/25 14:54:22 [SERVER] Starting Chit Chat server...
+2026/10/25 14:54:22 [SERVER] Listening on :50051
+2026/10/25 14:54:39 [SERVER][JOIN] Client Jacob joined at logical time 1
+2026/10/25 14:54:46 [SERVER][JOIN] Client Jens joined at logical time 2
+2026/10/25 14:55:06 [SERVER][JOIN] Client Johannes joined at logical time 3
+2026/10/25 14:55:11 [SERVER][MESSAGE] Jacob: hej med jer (logical time 4)
+2026/10/25 14:55:11 [SERVER][DELIVERY] Message delivered to Jacob
+2026/10/25 14:55:11 [SERVER][DELIVERY] Message delivered to Jens
+2026/10/25 14:55:11 [SERVER][DELIVERY] Message delivered to Johannes
+2026/10/25 14:55:14 [SERVER][MESSAGE] Jens: hej (logical time 5)
+2026/10/25 14:55:14 [SERVER][DELIVERY] Message delivered to Jacob
+2026/10/25 14:55:14 [SERVER][DELIVERY] Message delivered to Jens
+2026/10/25 14:55:14 [SERVER][DELIVERY] Message delivered to Johannes
+2026/10/25 14:55:18 [SERVER][MESSAGE] Johannes: hejse (logical time 6)
+2026/10/25 14:55:18 [SERVER][DELIVERY] Message delivered to Jacob
+2026/10/25 14:55:18 [SERVER][DELIVERY] Message delivered to Jens
+2026/10/25 14:55:18 [SERVER][DELIVERY] Message delivered to Johannes
+2026/10/25 14:55:25 [SERVER][LEAVE] Jens left (logical time 7)
+2026/10/25 14:55:25 [SERVER][DISCONNECT] Jens disconnected
+2026/10/25 14:55:30 [SERVER][LEAVE] Johannes left (logical time 8)
+2026/10/25 14:55:30 [SERVER][DISCONNECT] Johannes disconnected
+2026/10/25 14:55:34 [SERVER][LEAVE] Jacob left (logical time 9)
+2026/10/25 14:55:34 [SERVER][DISCONNECT] Jacob disconnected

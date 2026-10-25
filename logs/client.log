@@ -1,0 +1,12 @@
+Enter username: Connected to Chit Chat
+Type messages and press Enter
+Type /leave to exit
+2026/10/25 15:06:49 [CLIENT][CONNECT] Jacob connected to Chit Chat
+
+[1] Participant Jacob joined Chit Chat at logical time 1
+2026/10/25 15:06:49 [CLIENT][RECEIVED] Participant Jacob joined Chit Chat at logical time 1 (logical time 1)
+
+[2] Jacob: Hej
+2026/10/25 15:06:52 [CLIENT][RECEIVED] Jacob: Hej (logical time 2)
+Leaving chat...
+2026/10/25 15:06:57 [CLIENT][DISCONNECT] Jacob disconnected
